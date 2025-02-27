@@ -1,6 +1,6 @@
-# Data_projects_TripleTen
+# Data Science Portfolio
 
-This repository contains projects completed during the Triple Ten Data Analysis course. Below is a list of projects included in this repository.
+This repository contains various data projects that I have completed. Below is a list of projects included in this repository.
 
 ## Table of Contents
 1. BetaBank_Churn_Model([Churn_Model/README.md](https://github.com/Bthomas400/Data_projects_TripleTen/blob/eb15a0cf104e5598efaf26e123ee9e6d66188bd0/Churn_Model/README.md))
