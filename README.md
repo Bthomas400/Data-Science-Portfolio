@@ -3,8 +3,8 @@
 This repository contains various data projects that I have completed. Below is a list of projects included in this repository.
 
 ## Table of Contents
-1. Beta Bank Churn Model([Churn_Model/README.md](https://github.com/Bthomas400/Data_projects_TripleTen/blob/eb15a0cf104e5598efaf26e123ee9e6d66188bd0/Churn_Model/README.md))
-2. Ice Gaming Sales Analysis ([IceGaming_Sales_Analysis](https://github.com/Bthomas400/Data_projects_TripleTen/blob/4280802326e04876f2c3154ac75243fcbed8078b/Sales_Analysis/README.md)) 
-3. Innerconnect Churn Model ([Innerconnect-Churn-Model/README.md] (https://github.com/Bthomas400/Data-Science-Portfolio/blob/main/Innerconnect%20Churn%20Model/Innerconnect_ChurnModel.ipynb)) 
-4. Megaline Customer Analysis ([Statistical_Data_Analysis/README.md](https://github.com/Bthomas400/Data_projects_TripleTen/blob/eb15a0cf104e5598efaf26e123ee9e6d66188bd0/Statistical_Data_Analysis/README.md))
-5.Rusty Bargain Predictive Model ([Predictive_Model/README.md](https://github.com/Bthomas400/Data_projects_TripleTen/blob/eb15a0cf104e5598efaf26e123ee9e6d66188bd0/Predictive_Model/README.md))
+1. Beta Bank Churn Model([Beta-Bank-Churn-Model/README.md](https://github.com/Bthomas400/Data-Science-Portfolio/tree/main/Beta%20Bank%20Churn%20Model))
+2. Ice Gaming Sales Analysis ([Ice-Gaming-Sales-Analysis/README.md](https://github.com/Bthomas400/Data-Science-Portfolio/tree/main/Ice%20Gaming%20Sales%20Analysis)) 
+3. Innerconnect Churn Model ([Innerconnect-Churn-Model/README.md] (https://github.com/Bthomas400/Data-Science-Portfolio/tree/main/Innerconnect%20Churn%20Model)) 
+4. Megaline Customer Analysis ([Megaline-Customer-Analysis/README.md](https://github.com/Bthomas400/Data-Science-Portfolio/tree/main/Megaline%20Customer%20Analysis))
+5.Rusty Bargain Predictive Model ([Rusty-Bargain-Predictive-Model/README.md](https://github.com/Bthomas400/Data-Science-Portfolio/tree/main/Rusty%20Bargain%20Predictive%20Model))
