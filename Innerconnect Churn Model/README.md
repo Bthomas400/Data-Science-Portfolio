@@ -1,4 +1,3 @@
-```markdown
 # Interconnect Churn Model
 
 ## Overview
@@ -58,5 +57,5 @@ The **Gradient Boosting model** was selected as the final model due to its stron
 - Integrate the model into a **real-time churn monitoring system**.
 - Further optimize hyperparameters for even better prediction accuracy.
 - Explore deep learning techniques for future model improvements.
-```
+
 
